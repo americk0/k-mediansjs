@@ -1,0 +1,25 @@
+{
+  "name": "k-medians",
+  "version": "1.0.0",
+  "description": "A simple tool for performing the k-medians clustering algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/americk0/k-mediansjs.git"
+  },
+  "keywords": [
+    "k-medians",
+    "clustering",
+    "kmedians",
+    "median"
+  ],
+  "author": "Ben Watson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/americk0/k-mediansjs/issues"
+  },
+  "homepage": "https://github.com/americk0/k-mediansjs#readme"
+}
